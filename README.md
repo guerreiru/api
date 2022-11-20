@@ -1,6 +1,6 @@
 # Api ngcash
 
-<img align="right" src="src/assets/logo.png" width="10%" alt="react todo">
+<img align="right" src="src/assets/logo.png" width="10%" alt="NG CASH">
 
 <br>
 
